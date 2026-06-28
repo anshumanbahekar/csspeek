@@ -92,4 +92,4 @@ Have a feature idea? Start a [discussion](https://github.com/YOUR_USERNAME/csspe
 
 ## License
 
-[MIT](LICENSE) © Your Name
+[MIT](LICENSE) © Anshuman Bahekar
